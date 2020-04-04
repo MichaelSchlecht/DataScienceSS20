@@ -14,17 +14,17 @@ Course materials for the Data Science online class in SS20.
 
 ### Lab
 #### Python Intro
-* [Python Intro Part 1](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Notebooks/01_c_Python-Intro/01_variables.ipynb)
-* [Python Intro Part 2](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Notebooks/01_c_Python-Intro/02_strings.ipynb)
-* [Python Intro Part 3](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Notebooks/01_c_Python-Intro/03_data_structures.ipynb)
-* [Python Intro Part 4](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Notebooks/01_c_Python-Intro/04_control_flow.ipynb)
-* [Python Intro Part 5](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Notebooks/01_c_Python-Intro/05_functions.ipynb)
-* [Python Intro Part 6](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Notebooks/01_c_Python-Intro/06_classes.ipynb)
-* [Python Intro Part 7](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Notebooks/01_c_Python-Intro/07_modules.ipynb)
+* [Python Intro Part 1](https://colab.research.google.com/github/MichaelSchlecht/DataScienceSS20/blob/master/Notebooks/01_c_Python-Intro/01_variables.ipynb)
+* [Python Intro Part 2](https://colab.research.google.com/github/MichaelSchlecht/DataScienceSS20/blob/master/Notebooks/01_c_Python-Intro/02_strings.ipynb)
+* [Python Intro Part 3](https://colab.research.google.com/github/MichaelSchlecht/DataScienceSS20/blob/master/Notebooks/01_c_Python-Intro/03_data_structures.ipynb)
+* [Python Intro Part 4](https://colab.research.google.com/github/MichaelSchlecht/DataScienceSS20/blob/master/Notebooks/01_c_Python-Intro/04_control_flow.ipynb)
+* [Python Intro Part 5](https://colab.research.google.com/github/MichaelSchlecht/DataScienceSS20/blob/master/Notebooks/01_c_Python-Intro/05_functions.ipynb)
+* [Python Intro Part 6](https://colab.research.google.com/github/MichaelSchlecht/DataScienceSS20/blob/master/Notebooks/01_c_Python-Intro/06_classes.ipynb)
+* [Python Intro Part 7](https://colab.research.google.com/github/MichaelSchlecht/DataScienceSS20/blob/master/Notebooks/01_c_Python-Intro/07_modules.ipynb)
 #### MatPlotLib
-* [Intro MatPlotLib](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Notebooks/01_d_MatplotLib-Intro/Matplotlib-Intro.ipynb)
+* [Intro MatPlotLib](https://colab.research.google.com/github/MichaelSchlecht/DataScienceSS20/blob/master/Notebooks/01_d_MatplotLib-Intro/Matplotlib-Intro.ipynb)
 
 ### Exercises
 Please upload your solutions via Moodle!
-* [Exercise 1](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Exercises/1_a_Python.ipynb)
-* [Exercise 2](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Exercises/1_b_MatplotLib.ipynb)
+* [Exercise 1](https://colab.research.google.com/github/MichaelSchlecht/DataScienceSS20/blob/master/Exercises/1_a_Python.ipynb)
+* [Exercise 2](https://colab.research.google.com/github/MichaelSchlecht/DataScienceSS20/blob/master/Exercises/1_b_MatplotLib.ipynb)
